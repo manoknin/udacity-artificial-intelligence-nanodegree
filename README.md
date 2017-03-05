@@ -6,8 +6,8 @@ Projects for my Udacity Artificial Intelligence Nanodegree
 
 Sudoku Solver
 
-In this project, I have build an Artificial Intelligence agent to solve every Sudoku puzzle.
+In this project, I have built an Artificial Intelligence agent to solve every Sudoku puzzle. 
 
 Build A Game-Playing Agent (Isolation)
 
-In this lesson, you'll build a Game-Playing agent that defeats opponents in Isolation. Along the way, you'll learn about advanced Game-Playing techniques such as Iterative Deepening, Alpha-Beta Pruning, and Expectimax.
+In this project intelligent Game-Playing agent defeats opponents in Isolation using advanced Game-Playing techniques such as Iterative Deepening, Alpha-Beta Pruning, and Expectimax.
