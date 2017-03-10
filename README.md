@@ -6,7 +6,7 @@ Projects for my Udacity Artificial Intelligence Nanodegree
 
 Sudoku Solver
 
-In this project, I have built an Artificial Intelligence agent to solve every Sudoku puzzle. 
+In this project, I have built an Artificial Intelligence agent to solve every Sudoku puzzle. An illustration is in sudoku.mov
 
 Build A Game-Playing Agent (Isolation)
 
